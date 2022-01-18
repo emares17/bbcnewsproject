@@ -8,15 +8,15 @@
     <body>
         <table id="main menu">
             <tr>
-                <td><a href="https://account.bbc.com/signin">Sign In</td></a>
-                <td><a href="https://www.bbc.com/">Home</td></a>
-                <td><a href="https://www.bbc.com/news">News</td></a>
-                <td><a href="https://www.bbc.com/sport">Sports</td></a>
-                <td><a href="https://www.bbc.com/reel">Reel</td></a>
-                <td><a href="https://www.bbc.com/worklife">Worklife</td></a>
-                <td><a href="https://www.bbc.com/travel">Travel</td></a>
-                <td><a href="https://www.bbc.com/future">Future</td></a>
-                <td><a href="https://www.bbc.com/culture">Culture</td></a>
+                <td><a href="#">Sign In</td></a>
+                <td><a href="#">Home</td></a>
+                <td><a href="#">News</td></a>
+                <td><a href="#">Sports</td></a>
+                <td><a href="#">Reel</td></a>
+                <td><a href="#">Worklife</td></a>
+                <td><a href="#">Travel</td></a>
+                <td><a href="#">Future</td></a>
+                <td><a href="#">Culture</td></a>
                 <td><form action="/search" method="post">
                 <input type="search" name="search" value="Search"></form></td>
             </tr>
@@ -26,33 +26,32 @@
             <section id="main stories">   <!--First row-->
                 <div class="stories 1-5">
                     <article>
-                        <a href="https://www.bbc.com/news/world-middle-east-53770859">
-                        <img width="600" height="350"src="https://ichef.bbci.co.uk/news/976/cpsprodpb/1676D/production/_113931029_composite.jpg"
+                        <a href="#">
+                        <img width="600" height="350"src="#"
                         alt="Benjamin Netanyahu and Prince Mohammed Al Nahyan brokered the agreement with US help"></a>
                         <h3><p>Israel and UAE strike historic deal to normalise relations</p></h3>
                     </article>
                     <article>
-                        <a href="https://www.bbc.com/news/world-us-canada-53742684">
-                        <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/A500/production/_113904224_arch.jpg"
+                        <a href="#">
+                        <img src="##"
                         alt="The Peace Arch was erected in 1921, to commemorate the Treaty of Ghent, which ended the War of 1812"></a>
                         <h3><p>Americans, go home: Tension at Canada-US border</p></h3>
                     </article>
                     <article>
-                        <a href="https://www.bbc.com/news/health-53741966">
-                        <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/A632/production/_111864524_2020-04-18t130112z_
-                        2061940609_rc217g9mtg9h_rtrmadp_3_health-coronavirus-vaccine-oxford.jpg"
+                        <a href="#">
+                        <img src="#"
                         alt="Teams across the world are working to develop a vaccine that will be effective against Covid-19."></a>
                         <h3><p>Coronavirus: How will the world vaccinate seven billion?</p></h3>
                     </article>
                     <article>
-                        <a href="https://www.bbc.com/worklife/article/20200812-the-online-work-gyms-that-help-spur-productivity">
-                        <img src="https://ychef.files.bbci.co.uk/1600x900/p08ngz84.webp"
+                        <a href="#">
+                        <img src="#"
                         alt="It’s not always easy to be hyper-productive on your own. Could remote ‘work gyms’ be the answer to getting your best work done?"></a>
                         <h3><p>It’s not always easy to be hyper-productive on your own. Could remote ‘work gyms’ be the answer to getting your best work done?</p></h3>
                     </article>
                     <article>
-                        <a href="https://www.bbc.com/culture/article/20200812-vctor-jara-the-folk-singer-murdered-for-his-music">
-                        <img src="https://ychef.files.bbci.co.uk/1600x900/p08nkrfx.webp"
+                        <a href="#">
+                        <img src="#"#
                         alt="Víctor Jara"></a>
                         <h3><p>Víctor Jara: The folk singer murdered for his music</p></h3>
                     </article>
@@ -62,20 +61,20 @@
                 <h2>News</h2>
                 <div class="news 1-3">
                     <article>
-                        <a href="https://www.bbc.com/news/election-us-2020-53754294">
-                        <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/3567/production/_113917631_0457aea8-05de-4a81-87b4-6134bd4fba98.jpg"
+                        <a href="#">
+                        <img src="#"
                         alt="Mr.Biden and Ms.Harris"></a>
                         <h3><p>Joe Biden and Kamala Harris say Trump has left US 'in tatters'</p></h3>
                     </article>
                     <article>
-                        <a href="https://www.bbc.com/news/world-europe-53761747">
-                        <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/9BE8/production/_113921993_hi062881272-1.jpg"
+                        <a href="#">
+                        <img src="#"
                         alt="Women have formed human chains in Belarus to condemn a crackdown"></a>
                         <h3><p>Belarus election: Women form 'solidarity chains' to condemn crackdown</p></h3>
                     </article>
                     <article>
-                        <a href="https://www.bbc.com/news/world-us-canada-53761744">
-                        <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/41FB/production/_113919861_hi045965426.jpg"
+                        <a href="#">
+                        <img src="#"
                         alt="Mr Trump said his hair had to be perfect"></a>
                         <h3><p>US calls for shower rules to be eased after Trump hair complaints</p></h3>
                     </article>
